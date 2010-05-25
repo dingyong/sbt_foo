@@ -1,0 +1,5 @@
+.sbt foo project.
+
+1,"Hello World" sample
+2,Webapp
+3,Log.scala
